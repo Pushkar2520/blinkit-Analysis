@@ -91,3 +91,5 @@ Popular categories are basic essentials and impulse buys, while niche categories
 - Low Growth Phase: 2011–2013, starting with only $78.1K
 - Outlet establishment grew steadily with a major spike in 2018, signaling a strategic expansion phase.
 
+# Final Conclusion 
+The data shows Blinkit's strongest sales are driven by high-sized outlets in Tier 3 and Tier 2 locations, particularly with regular fat content products like fruits, vegetables, and snacks. While Grocery Stores lead in average sales and item volume, Supermarket Type 1 leads in total revenue, indicating a well-rounded retail strategy. Additionally, 2018 marked a key year for outlet expansion, which likely contributed to the sales growth. For continued growth, Blinkit should focus on expanding high-performing outlet types and optimize item categories like frozen and household goods in growing Tier 2 and Tier 3 markets.

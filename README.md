@@ -29,13 +29,13 @@ To analyze Blinkit’s retail sales data to identify key trends in item performa
 
 - Dashboard Interation <a href="https://github.com/Pushkar2520/blinkit-Analysis/blob/main/Blinkit%20Dashboard.png">View Dashboard<a/>
 
-## Process
+# Process
 - Cleaned data: handled missing values, fixed formats, removed duplicates
 - Ensured consistency across item and outlet fields
 - Created pivot tables for sales, item types, and outlet performance
 - Built an interactive dashboard with charts, slicers, and KPIs
 - Analyzed trends by item category, outlet type, size, and tier
 
-## Dashboard
+# Dashboard
 ![Blinkit Dashboard](https://github.com/user-attachments/assets/f9ab81cc-e1d6-49e7-9371-e77156a0c96b)
 

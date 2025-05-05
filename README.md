@@ -27,7 +27,7 @@ To analyze Blinkit’s retail sales data to identify key trends in item performa
 - How have outlet establishment trends changed over the years?
 - In which year were the most outlets established (in terms of sales contribution)?
 
--Dashboard Interation <a href="https://github.com/Pushkar2520/blinkit-Analysis/blob/main/Blinkit%20Dashboard.png">View Dashboard<a/>
+- Dashboard Interation <a href="https://github.com/Pushkar2520/blinkit-Analysis/blob/main/Blinkit%20Dashboard.png">View Dashboard<a/>
 
 ## Process
 - Cleaned data: handled missing values, fixed formats, removed duplicates

@@ -1,2 +1,3 @@
-# blinkit-Analysis
-Built an interactive Excel dashboard to analyze Blinkit sales data, showing insights on total sales, item types, outlet performance by size, location, and type. Demonstrated skills in data cleaning, pivot analysis, and retail sales visualization.
+# Blinkit-Grocery-Analysis(Interactive dashborad using MS Excel)
+## Project Objective:
+To analyze Blinkit’s retail sales data to identify key trends in item performance, outlet efficiency, and customer behavior, enabling data-driven decisions to improve sales strategy, inventory planning, and outlet management.
